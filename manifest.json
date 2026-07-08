@@ -1,0 +1,23 @@
+{
+  "name": "KK Triglav",
+  "short_name": "KK Triglav",
+  "description": "KK Triglav Basketball Stats",
+  "icons": [
+    {
+      "src": "https://mcer-dot.github.io/KK-Triglav/kk_triglav_icon_upload.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://mcer-dot.github.io/KK-Triglav/kk_triglav_icon_upload.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "display": "standalone",
+  "background_color": "#0B1520",
+  "theme_color": "#0E1620",
+  "start_url": "/"
+}
